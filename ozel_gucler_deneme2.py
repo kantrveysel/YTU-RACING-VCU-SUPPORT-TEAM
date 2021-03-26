@@ -76,9 +76,7 @@ while True:
         my_canvas.itemconfig(ball,fill="black")
         my_canvas.itemconfig(invisible,fill="blue")
 
-    if sayac==8 or sayac==19:
-        my_canvas.itemconfig(ball,fill="black")
-        my_canvas.itemconfig(invisible,fill="blue")
+  
 
 
     #TOP NORMALDE DÖNER
